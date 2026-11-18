@@ -1,0 +1,9 @@
+# 非漫画平台项目内容，不纳入版本管理
+/wechatTS/
+/新建文件夹/
+/cwjl.md
+/patch_docx.py
+
+# 系统文件
+.DS_Store
+Thumbs.db

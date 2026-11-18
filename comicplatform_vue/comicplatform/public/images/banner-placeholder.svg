@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="320" viewBox="0 0 800 320">
+  <rect width="800" height="320" fill="#1f2937" rx="12"/>
+  <rect x="40" y="40" width="720" height="240" fill="#374151" rx="8"/>
+  <text x="400" y="150" text-anchor="middle" fill="#9ca3af" font-size="24" font-family="Noto Sans SC, sans-serif">漫画详情 Banner</text>
+  <text x="400" y="190" text-anchor="middle" fill="#6b7280" font-size="16" font-family="Noto Sans SC, sans-serif">800 x 320</text>
+</svg>
